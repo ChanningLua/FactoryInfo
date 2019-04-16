@@ -10,4 +10,5 @@
 
 - 希望成为您成功路上的坚实伙伴
 
-[Get Started](/start.md)
+[简介](/start.md)
+[工厂介绍](/factory/达方电子(苏州).md)
